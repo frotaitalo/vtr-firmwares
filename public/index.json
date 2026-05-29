@@ -1,5 +1,17 @@
 [
   {
+    "product_code": "HO",
+    "version_name": "1.0.3",
+    "version": [
+      1,
+      0,
+      3
+    ],
+    "update_at": "2025-10-27T15:45:00+00:00",
+    "path": "/files/helios_overdrive_1.0.3.vtr",
+    "size": 330003
+  },
+  {
     "product_code": "IN",
     "version_name": "1.0.8",
     "version": [
@@ -7,8 +19,164 @@
       0,
       8
     ],
-    "update_at": "2026-05-21T19:30:00+00:00",
+    "update_at": "2026-05-28T16:00:00+00:00",
     "path": "/files/ignis_neural_amp_1.0.8.vtr",
-    "size": 1854111
+    "size": 1869954
+  },
+  {
+    "product_code": "KB",
+    "version_name": "1.1.2",
+    "version": [
+      1,
+      1,
+      2
+    ],
+    "update_at": "2025-10-26T15:45:00+00:00",
+    "path": "/files/kailani_black_reverb_1.1.2.vtr",
+    "size": 568091
+  },
+  {
+    "product_code": "KB",
+    "version_name": "1.1.4",
+    "version": [
+      1,
+      1,
+      4
+    ],
+    "update_at": "2026-01-15T15:45:00+00:00",
+    "path": "/files/kailani_black_reverb_1.1.4.vtr",
+    "size": 567542
+  },
+  {
+    "product_code": "KR",
+    "version_name": "1.1.2",
+    "version": [
+      1,
+      1,
+      2
+    ],
+    "update_at": "2025-10-26T15:45:00+00:00",
+    "path": "/files/kailani_reverb_1.1.2.vtr",
+    "size": 571783
+  },
+  {
+    "product_code": "KR",
+    "version_name": "1.1.4",
+    "version": [
+      1,
+      1,
+      4
+    ],
+    "update_at": "2026-01-15T15:45:00+00:00",
+    "path": "/files/kailani_reverb_1.1.4.vtr",
+    "size": 567539
+  },
+  {
+    "product_code": "LM",
+    "version_name": "1.0.1",
+    "version": [
+      1,
+      0,
+      1
+    ],
+    "update_at": "2025-10-26T15:45:00+00:00",
+    "path": "/files/loki_modulation_1.0.1.vtr",
+    "size": 537677
+  },
+  {
+    "product_code": "LM",
+    "version_name": "1.0.3",
+    "version": [
+      1,
+      0,
+      3
+    ],
+    "update_at": "2026-01-15T15:45:00+00:00",
+    "path": "/files/loki_modulation_1.0.3.vtr",
+    "size": 545293
+  },
+  {
+    "product_code": "NR",
+    "version_name": "1.0.0",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "update_at": "2025-10-26T15:45:00+00:00",
+    "path": "/files/namaka_reverb_1.0.0.vtr",
+    "size": 560291
+  },
+  {
+    "product_code": "NR",
+    "version_name": "1.0.2",
+    "version": [
+      1,
+      0,
+      2
+    ],
+    "update_at": "2026-04-15T15:45:00+00:00",
+    "path": "/files/namaka_reverb_1.0.2.vtr",
+    "size": 368062
+  },
+  {
+    "product_code": "NB",
+    "version_name": "1.1.1",
+    "version": [
+      1,
+      1,
+      1
+    ],
+    "update_at": "2025-09-26T15:45:00+00:00",
+    "path": "/files/narciso_black_delay_1.1.1.vtr",
+    "size": 560283
+  },
+  {
+    "product_code": "NB",
+    "version_name": "1.1.3",
+    "version": [
+      1,
+      1,
+      3
+    ],
+    "update_at": "2026-01-15T15:45:00+00:00",
+    "path": "/files/narciso_black_delay_1.1.3.vtr",
+    "size": 564260
+  },
+  {
+    "product_code": "ND",
+    "version_name": "1.1.2",
+    "version": [
+      1,
+      1,
+      2
+    ],
+    "update_at": "2025-09-26T15:45:00+00:00",
+    "path": "/files/narciso_delay_1.1.2.vtr",
+    "size": 559240
+  },
+  {
+    "product_code": "ND",
+    "version_name": "1.1.3",
+    "version": [
+      1,
+      1,
+      3
+    ],
+    "update_at": "2026-01-15T15:45:00+00:00",
+    "path": "/files/narciso_delay_1.1.3.vtr",
+    "size": 563665
+  },
+  {
+    "product_code": "VD",
+    "version_name": "1.0.1",
+    "version": [
+      1,
+      0,
+      1
+    ],
+    "update_at": "2025-10-27T15:45:00+00:00",
+    "path": "/files/venator_distortion_1.0.1.vtr",
+    "size": 331574
   }
 ]
