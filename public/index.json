@@ -48,6 +48,18 @@
     "size": 2099126
   },
   {
+    "product_code": "IN",
+    "version_name": "2.0.1",
+    "version": [
+      2,
+      0,
+      1
+    ],
+    "update_at": "2026-06-25T17:00:00+00:00",
+    "path": "/files/ignis_neural_amp_2.0.1.vtr",
+    "size": 2099106
+  },
+  {
     "product_code": "KB",
     "version_name": "1.1.2",
     "version": [
@@ -108,6 +120,18 @@
     "size": 656277
   },
   {
+    "product_code": "KR",
+    "version_name": "2.0.1",
+    "version": [
+      2,
+      0,
+      1
+    ],
+    "update_at": "2026-07-03T16:30:00+00:00",
+    "path": "/files/kailani_reverb_2.0.1.vtr",
+    "size": 656484
+  },
+  {
     "product_code": "LM",
     "version_name": "1.0.1",
     "version": [
@@ -142,6 +166,18 @@
     "update_at": "2026-06-25T16:30:00+00:00",
     "path": "/files/loki_modulation_2.0.0.vtr",
     "size": 666602
+  },
+  {
+    "product_code": "LM",
+    "version_name": "2.0.1",
+    "version": [
+      2,
+      0,
+      1
+    ],
+    "update_at": "2026-07-03T16:30:00+00:00",
+    "path": "/files/loki_modulation_2.0.1.vtr",
+    "size": 666950
   },
   {
     "product_code": "NR",
@@ -228,6 +264,18 @@
     "size": 677631
   },
   {
+    "product_code": "ND",
+    "version_name": "2.0.1",
+    "version": [
+      2,
+      0,
+      1
+    ],
+    "update_at": "2026-07-03T16:30:00+00:00",
+    "path": "/files/narciso_delay_2.0.1.vtr",
+    "size": 677963
+  },
+  {
     "product_code": "VD",
     "version_name": "1.0.1",
     "version": [
@@ -246,7 +294,7 @@
     "version": [
       1,
       0,
-      5
+      6
     ],
     "download_url": "https://vtreffects.com.br/vtrstudio"
   }
