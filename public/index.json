@@ -57,7 +57,19 @@
     ],
     "update_at": "2026-06-25T17:00:00+00:00",
     "path": "/files/ignis_neural_amp_2.0.1.vtr",
-    "size": 2099106
+    "size": 2093730
+  },
+  {
+    "product_code": "IN",
+    "version_name": "2.0.2",
+    "version": [
+      2,
+      0,
+      2
+    ],
+    "update_at": "2026-07-17T10:00:00+00:00",
+    "path": "/files/ignis_neural_amp_2.0.2.vtr",
+    "size": 2093738
   },
   {
     "product_code": "KB",
@@ -294,7 +306,7 @@
     "version": [
       1,
       0,
-      6
+      7
     ],
     "download_url": "https://vtreffects.com.br/vtrstudio"
   }
