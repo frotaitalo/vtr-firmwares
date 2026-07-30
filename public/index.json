@@ -144,6 +144,18 @@
     "size": 656484
   },
   {
+    "product_code": "KR",
+    "version_name": "2.0.2",
+    "version": [
+      2,
+      0,
+      1
+    ],
+    "update_at": "2026-07-03T16:30:00+00:00",
+    "path": "/files/kailani_reverb_2.0.2.vtr",
+    "size": 656484
+  },
+  {
     "product_code": "LM",
     "version_name": "1.0.1",
     "version": [
