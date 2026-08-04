@@ -96,6 +96,18 @@
     "size": 567542
   },
   {
+    "product_code": "KB",
+    "version_name": "2.0.1",
+    "version": [
+      2,
+      0,
+      1
+    ],
+    "update_at": "2026-08-04T15:00:00+00:00",
+    "path": "/files/kailani_black_reverb_2.0.1.vtr",
+    "size": 657145
+  },
+  {
     "product_code": "KR",
     "version_name": "1.1.2",
     "version": [
@@ -342,7 +354,7 @@
     "version": [
       1,
       0,
-      6
+      7
     ],
     "download_url": "https://vtreffects.com.br/vtrstudio"
   }
