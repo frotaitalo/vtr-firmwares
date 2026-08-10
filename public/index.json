@@ -72,6 +72,18 @@
     "size": 2093738
   },
   {
+    "product_code": "IN",
+    "version_name": "2.0.3",
+    "version": [
+      2,
+      0,
+      3
+    ],
+    "update_at": "2026-08-10T14:30:00+00:00",
+    "path": "/files/ignis_neural_amp_2.0.3.vtr",
+    "size": 2103363
+  },
+  {
     "product_code": "KB",
     "version_name": "1.1.2",
     "version": [
@@ -106,6 +118,18 @@
     "update_at": "2026-08-04T15:00:00+00:00",
     "path": "/files/kailani_black_reverb_2.0.1.vtr",
     "size": 657145
+  },
+  {
+    "product_code": "KB",
+    "version_name": "2.0.2",
+    "version": [
+      2,
+      0,
+      2
+    ],
+    "update_at": "2026-08-10T14:30:00+00:00",
+    "path": "/files/kailani_black_reverb_2.0.2.vtr",
+    "size": 657337
   },
   {
     "product_code": "KR",
@@ -163,9 +187,9 @@
       0,
       2
     ],
-    "update_at": "2026-07-03T16:30:00+00:00",
+    "update_at": "2026-08-10T14:30:00+00:00",
     "path": "/files/kailani_reverb_2.0.2.vtr",
-    "size": 657019
+    "size": 657255
   },
   {
     "product_code": "LM",
@@ -214,6 +238,18 @@
     "update_at": "2026-07-03T16:30:00+00:00",
     "path": "/files/loki_modulation_2.0.1.vtr",
     "size": 666950
+  },
+  {
+    "product_code": "LM",
+    "version_name": "2.0.2",
+    "version": [
+      2,
+      0,
+      2
+    ],
+    "update_at": "2026-08-10T14:30:00+00:00",
+    "path": "/files/loki_modulation_2.0.2.vtr",
+    "size": 667683
   },
   {
     "product_code": "NR",
@@ -276,6 +312,18 @@
     "size": 678608
   },
   {
+    "product_code": "NB",
+    "version_name": "2.0.2",
+    "version": [
+      2,
+      0,
+      2
+    ],
+    "update_at": "2026-08-10T14:30:00+00:00",
+    "path": "/files/narciso_black_delay_2.0.2.vtr",
+    "size": 678783
+  },
+  {
     "product_code": "ND",
     "version_name": "1.1.2",
     "version": [
@@ -322,6 +370,18 @@
     "update_at": "2026-07-03T16:30:00+00:00",
     "path": "/files/narciso_delay_2.0.1.vtr",
     "size": 677963
+  },
+  {
+    "product_code": "ND",
+    "version_name": "2.0.2",
+    "version": [
+      2,
+      0,
+      2
+    ],
+    "update_at": "2026-08-10T14:30:00+00:00",
+    "path": "/files/narciso_delay_2.0.2.vtr",
+    "size": 678703
   },
   {
     "product_code": "SR",
