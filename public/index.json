@@ -84,6 +84,18 @@
     "size": 2103363
   },
   {
+    "product_code": "IN",
+    "version_name": "2.0.4",
+    "version": [
+      2,
+      0,
+      4
+    ],
+    "update_at": "2026-09-10T12:00:00+00:00",
+    "path": "/files/ignis_neural_amp_2.0.4.vtr",
+    "size": 2157157
+  },
+  {
     "product_code": "KB",
     "version_name": "1.1.2",
     "version": [
