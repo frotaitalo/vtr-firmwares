@@ -448,15 +448,15 @@
     "product_code": "VTRSTUDIO",
     "version_name": "2.0.0",
     "version": [2, 0, 0],
-    "download_url": "https://update.vtreffects.com.br/VTR_Studio_Installer.exe?v=2.0.0",
-    "sha256": "4e2e2748e97baf05c9e7b7e55f0580dc4ae7afadd43ce42c6adae9ad15bca8ff",
-    "size_bytes": 190721040,
+    "download_url": "https://update.vtreffects.com.br/VTR_Studio_Installer.exe?v=2.0.0.1",
+    "sha256": "b1c504cc89e516409adc12bc2d082121cc90802b598751dd7d3337ece162799d",
+    "size_bytes": 190723264,
     "changelog": "• Nova interface VTR Studio 2.0 (React 19 + Tailwind)\n• Executável e instalador com assinatura digital oficial Certum\n• Sistema de atualização automática integrado e silencioso\n• Melhorias de desempenho e renderização DSP do NAM Core",
     "platforms": {
       "windows-x64": {
-        "url": "https://update.vtreffects.com.br/VTR_Studio_Installer.exe?v=2.0.0",
-        "sha256": "4e2e2748e97baf05c9e7b7e55f0580dc4ae7afadd43ce42c6adae9ad15bca8ff",
-        "size_bytes": 190721040
+        "url": "https://update.vtreffects.com.br/VTR_Studio_Installer.exe?v=2.0.0.1",
+        "sha256": "b1c504cc89e516409adc12bc2d082121cc90802b598751dd7d3337ece162799d",
+        "size_bytes": 190723264
       },
       "macos-arm64": {
         "url": "https://update.vtreffects.com.br/VTR-Studio-macOS-arm64-1.0.9.zip",
