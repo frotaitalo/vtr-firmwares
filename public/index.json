@@ -443,15 +443,31 @@
     "path": "/files/venator_distortion_2.0.0.vtr",
     "size": 351659
   },
-  {
+      {
     "type": "software",
     "product_code": "VTRSTUDIO",
-    "version_name": "1.0.8",
-    "version": [
-      1,
-      0,
-      8
-    ],
-    "download_url": "https://vtreffects.com.br/vtrstudio"
+    "version_name": "2.0.0",
+    "version": [2, 0, 0],
+    "download_url": "https://update.vtreffects.com.br/VTR_Studio_Installer.exe",
+    "sha256": "4e2e2748e97baf05c9e7b7e55f0580dc4ae7afadd43ce42c6adae9ad15bca8ff",
+    "size_bytes": 190721040,
+    "changelog": "• Nova interface VTR Studio 2.0 (React 19 + Tailwind)\n• Executável e instalador com assinatura digital oficial Certum\n• Sistema de atualização automática integrado e silencioso\n• Melhorias de desempenho e renderização DSP do NAM Core",
+    "platforms": {
+      "windows-x64": {
+        "url": "https://update.vtreffects.com.br/VTR_Studio_Installer.exe",
+        "sha256": "4e2e2748e97baf05c9e7b7e55f0580dc4ae7afadd43ce42c6adae9ad15bca8ff",
+        "size_bytes": 190721040
+      },
+      "macos-arm64": {
+        "url": "https://update.vtreffects.com.br/VTR-Studio-macOS-arm64-1.0.9.zip",
+        "sha256": "hash_do_zip_mac_m1",
+        "size_bytes": 145000000
+      },
+      "macos-x64": {
+        "url": "https://update.vtreffects.com.br/VTR-Studio-macOS-x64-1.0.9.zip",
+        "sha256": "hash_do_zip_mac_intel",
+        "size_bytes": 148000000
+      }
+    }
   }
 ]
