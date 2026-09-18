@@ -1,0 +1,2 @@
+66f3f3461d3eb01e955de315ecb24f80ec9a91e957a2c2640299a47ea8cff870  VTR_Studio_Installer.dmg
+a44e3f4fc5f031df7f13284c0359cc77d837bdcc1af9791c7f06c57b64f047c0  VTR_Studio_macOS_Update.zip

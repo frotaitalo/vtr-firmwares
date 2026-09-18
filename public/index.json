@@ -459,14 +459,14 @@
         "size_bytes": 190723264
       },
       "macos-arm64": {
-        "url": "https://update.vtreffects.com.br/VTR-Studio-macOS-arm64-1.0.9.zip",
-        "sha256": "hash_do_zip_mac_m1",
-        "size_bytes": 145000000
+        "url": "https://update.vtreffects.com.br/VTR_Studio_macOS_Update.zip",
+        "sha256": "a44e3f4fc5f031df7f13284c0359cc77d837bdcc1af9791c7f06c57b64f047c0",
+        "size_bytes": 113629161
       },
       "macos-x64": {
-        "url": "https://update.vtreffects.com.br/VTR-Studio-macOS-x64-1.0.9.zip",
-        "sha256": "hash_do_zip_mac_intel",
-        "size_bytes": 148000000
+        "url": "https://update.vtreffects.com.br/VTR_Studio_macOS_Update.zip",
+        "sha256": "a44e3f4fc5f031df7f13284c0359cc77d837bdcc1af9791c7f06c57b64f047c0",
+        "size_bytes": 113629161
       }
     }
   }
