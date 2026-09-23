@@ -458,12 +458,33 @@
   {
     "type": "software",
     "product_code": "VTRSTUDIO",
-    "version_name": "2.0.0",
+    "version_name": "2.0.0.1",
     "version": [
       2,
       0,
-      0
+      0,
+      1
     ],
-    "download_url": "https://update.vtreffects.com.br/VTR_Studio_Installer.exe"
+    "download_url": "https://update.vtreffects.com.br/VTR_Studio_Installer.exe?v=2.0.0.1",
+    "sha256": "2929d8030164d0411361a4b90a5a4e004bdbe0cae523b6b431aca8ea77484926",
+    "size_bytes": 101249568,
+    "changelog": "• Correções de faixas e sincronização do Sanctum Reverb (Fade-in, Bloom-in e CPU Meter)\n• Janelas nativas do sistema operacional para exportar e importar presets (JSON)\n• Verificação e recarga de firmware sob demanda com botão de atualização\n• Correções gerais de estabilidade da versão 2.0.0 Beta",
+    "platforms": {
+      "windows-x64": {
+        "url": "https://update.vtreffects.com.br/VTR_Studio_Installer.exe?v=2.0.0.1",
+        "sha256": "2929d8030164d0411361a4b90a5a4e004bdbe0cae523b6b431aca8ea77484926",
+        "size_bytes": 101249568
+      },
+      "macos-arm64": {
+        "url": "https://update.vtreffects.com.br/VTR_Studio_macOS_Update.zip?v=2.0.0.1",
+        "sha256": "3abecf1f2e2da53e2901b163352f4a25599f09c2394d15cdbf8deae2a6ce653b",
+        "size_bytes": 113614080
+      },
+      "macos-x64": {
+        "url": "https://update.vtreffects.com.br/VTR_Studio_macOS_Update.zip?v=2.0.0.1",
+        "sha256": "3abecf1f2e2da53e2901b163352f4a25599f09c2394d15cdbf8deae2a6ce653b",
+        "size_bytes": 113614080
+      }
+    }
   }
 ]
