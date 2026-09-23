@@ -420,6 +420,18 @@
     "size": 1521375
   },
   {
+    "product_code": "SR",
+    "version_name": "1.0.1",
+    "version": [
+      1,
+      0,
+      1
+    ],
+    "update_at": "2026-09-23T12:00:00+00:00",
+    "path": "/files/sanctum_reverb_1.0.1.vtr",
+    "size": 1548985
+  },
+  {
     "product_code": "VD",
     "version_name": "1.0.1",
     "version": [
@@ -443,31 +455,15 @@
     "path": "/files/venator_distortion_2.0.0.vtr",
     "size": 351659
   },
-      {
+  {
     "type": "software",
     "product_code": "VTRSTUDIO",
     "version_name": "2.0.0",
-    "version": [2, 0, 0],
-    "download_url": "https://update.vtreffects.com.br/VTR_Studio_Installer.exe?v=2.0.0.1",
-    "sha256": "b1c504cc89e516409adc12bc2d082121cc90802b598751dd7d3337ece162799d",
-    "size_bytes": 190723264,
-    "changelog": "• Nova interface VTR Studio 2.0 (React 19 + Tailwind)\n• Executável e instalador com assinatura digital oficial Certum\n• Sistema de atualização automática integrado e silencioso\n• Melhorias de desempenho e renderização DSP do NAM Core",
-    "platforms": {
-      "windows-x64": {
-        "url": "https://update.vtreffects.com.br/VTR_Studio_Installer.exe?v=2.0.0.1",
-        "sha256": "b1c504cc89e516409adc12bc2d082121cc90802b598751dd7d3337ece162799d",
-        "size_bytes": 190723264
-      },
-      "macos-arm64": {
-        "url": "https://update.vtreffects.com.br/VTR_Studio_macOS_Update.zip",
-        "sha256": "a44e3f4fc5f031df7f13284c0359cc77d837bdcc1af9791c7f06c57b64f047c0",
-        "size_bytes": 113629161
-      },
-      "macos-x64": {
-        "url": "https://update.vtreffects.com.br/VTR_Studio_macOS_Update.zip",
-        "sha256": "a44e3f4fc5f031df7f13284c0359cc77d837bdcc1af9791c7f06c57b64f047c0",
-        "size_bytes": 113629161
-      }
-    }
+    "version": [
+      2,
+      0,
+      0
+    ],
+    "download_url": "https://update.vtreffects.com.br/VTR_Studio_Installer.exe"
   }
 ]
