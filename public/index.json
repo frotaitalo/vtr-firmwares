@@ -470,32 +470,32 @@
   {
     "type": "software",
     "product_code": "VTRSTUDIO",
-    "version_name": "2.0.0.3",
+    "version_name": "2.0.0.4",
     "version": [
       2,
       0,
       0,
-      3
+      4
     ],
-    "download_url": "https://update.vtreffects.com.br/VTR_Studio_Installer.exe?v=2.0.0.3",
+    "download_url": "https://update.vtreffects.com.br/VTR_Studio_Installer.exe?v=2.0.0.4",
     "sha256": "2d71d138c050493c06064079c5b48ac107674ed8bd90878ee17a2f785a709b0c",
     "size_bytes": 101350976,
-    "changelog": "• Correção crítica no bootloader e atualização de firmware (Sanctum Reverb, Ignis, Imago, Gold Series)\n• Liberação e encerramento imediato da porta serial para gravação estável da ROM\n• Suporte completo ao Imago Delay com telemetria e controles ao vivo\n• Suporte completo à Gold Series com telemetria bidirecional e presets\n• Restauração e melhorias nos logs do sistema e diagnóstico rápido\n• Estabilidade e encerramento seguro do instalador no Windows (2.0.0 Beta Build 3)",
+    "changelog": "• Correção crítica na leitura serial de presets e configurações do Imago Delay no macOS\n• Sincronização e leitura segura da porta USB CDC (/dev/cu.usbmodem*) evitando conflitos de acesso\n• Correção crítica no bootloader e atualização de firmware (Sanctum Reverb, Ignis, Imago, Gold Series)\n• Suporte completo ao Imago Delay e Gold Series com telemetria bidirecional e controles ao vivo (2.0.0 Beta Build 4)",
     "platforms": {
       "windows-x64": {
-        "url": "https://update.vtreffects.com.br/VTR_Studio_Installer.exe?v=2.0.0.3",
+        "url": "https://update.vtreffects.com.br/VTR_Studio_Installer.exe?v=2.0.0.4",
         "sha256": "2d71d138c050493c06064079c5b48ac107674ed8bd90878ee17a2f785a709b0c",
         "size_bytes": 101350976
       },
       "macos-arm64": {
-        "url": "https://update.vtreffects.com.br/VTR_Studio_macOS_Update.zip?v=2.0.0.3",
-        "sha256": "3564889886db7703c42cffb7e4f07d132c9e1a137ad6a617b551d8e85f710724",
-        "size_bytes": 113732016
+        "url": "https://update.vtreffects.com.br/VTR_Studio_macOS_Update.zip?v=2.0.0.4",
+        "sha256": "90683f98e6b7b11fe06afe3f59cd0fe38659a191f11ba873a2111735702ed8e1",
+        "size_bytes": 113732420
       },
       "macos-x64": {
-        "url": "https://update.vtreffects.com.br/VTR_Studio_macOS_Update.zip?v=2.0.0.3",
-        "sha256": "3564889886db7703c42cffb7e4f07d132c9e1a137ad6a617b551d8e85f710724",
-        "size_bytes": 113732016
+        "url": "https://update.vtreffects.com.br/VTR_Studio_macOS_Update.zip?v=2.0.0.4",
+        "sha256": "90683f98e6b7b11fe06afe3f59cd0fe38659a191f11ba873a2111735702ed8e1",
+        "size_bytes": 113732420
       }
     }
   }
