@@ -144,6 +144,18 @@
     "size": 657337
   },
   {
+    "product_code": "KB",
+    "version_name": "2.0.3",
+    "version": [
+      2,
+      0,
+      3
+    ],
+    "update_at": "2026-10-21T20:20:00+00:00",
+    "path": "/files/kailani_black_reverb_2.0.3.vtr",
+    "size": 672888
+  },
+  {
     "product_code": "KR",
     "version_name": "1.1.2",
     "version": [
@@ -204,6 +216,18 @@
     "size": 657255
   },
   {
+    "product_code": "KR",
+    "version_name": "2.0.3",
+    "version": [
+      2,
+      0,
+      3
+    ],
+    "update_at": "2026-10-21T20:20:00+00:00",
+    "path": "/files/kailani_reverb_2.0.3.vtr",
+    "size": 672805
+  },
+  {
     "product_code": "LM",
     "version_name": "1.0.1",
     "version": [
@@ -262,6 +286,18 @@
     "update_at": "2026-08-10T14:30:00+00:00",
     "path": "/files/loki_modulation_2.0.2.vtr",
     "size": 667683
+  },
+  {
+    "product_code": "LM",
+    "version_name": "2.0.3",
+    "version": [
+      2,
+      0,
+      3
+    ],
+    "update_at": "2026-10-21T20:20:00+00:00",
+    "path": "/files/loki_modulation_2.0.3.vtr",
+    "size": 665402
   },
   {
     "product_code": "NR",
@@ -336,6 +372,18 @@
     "size": 678783
   },
   {
+    "product_code": "NB",
+    "version_name": "2.0.3",
+    "version": [
+      2,
+      0,
+      3
+    ],
+    "update_at": "2026-10-21T20:20:00+00:00",
+    "path": "/files/narciso_black_delay_2.0.3.vtr",
+    "size": 673612
+  },
+  {
     "product_code": "ND",
     "version_name": "1.1.2",
     "version": [
@@ -394,6 +442,18 @@
     "update_at": "2026-08-10T14:30:00+00:00",
     "path": "/files/narciso_delay_2.0.2.vtr",
     "size": 678703
+  },
+  {
+    "product_code": "ND",
+    "version_name": "2.0.3",
+    "version": [
+      2,
+      0,
+      3
+    ],
+    "update_at": "2026-10-21T20:20:00+00:00",
+    "path": "/files/narciso_delay_2.0.3.vtr",
+    "size": 673529
   },
   {
     "product_code": "SR",
